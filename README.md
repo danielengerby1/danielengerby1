@@ -13,7 +13,7 @@ Finding: re-optimising quarterly without hindsight beat OMXS30 over 2018–2026,
 
 ### Toolkit
 
-Python (pandas, NumPy, Matplotlib, Jupyter) · TypeScript / Next.js · SQL · Excel / financial modelling · Git & CI
+Python (pandas, NumPy, Matplotlib, Jupyter) · TypeScript / Next.js · Git & GitHub Actions · Vercel
 
 ### Get in touch
 
