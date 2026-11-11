@@ -1,6 +1,6 @@
 ## Daniel Engerby
 
-Finance & fintech analyst based in Sweden. BSc Business and Finance (First-Class Honours), Oxford Brookes University.
+Financial analyst based in Sweden. BSc Business and Finance (First-Class Honours), Oxford Brookes University.
 
 I build tools that combine financial analysis with data engineering: honest methodology, real data, tested code.
 
